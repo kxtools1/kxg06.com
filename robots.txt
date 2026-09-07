@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kxg06.com/sitemap.xml
