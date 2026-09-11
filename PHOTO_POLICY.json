@@ -1,0 +1,40 @@
+{
+  "new_photos": 0,
+  "generated_photos": 0,
+  "rule": "Any new or replacement photograph requires explicit user approval before use.",
+  "existing_asset_sha256": {
+    "pneumatic-hydraulic.jpg": "42edea562a5194a47df24da453f18ff32ab99787e32d06c3bc2cadf17df19023",
+    "hero-approved.jpg": "456caa26f4c01ce88ddc59bdb11654214afb3c9a60fd42471fbea24296240ece",
+    "power-tools.jpg": "3ce2aaefa3f6b84a704804c5ac0a5e32c215370c0ec1cd107c69997f443a05ca",
+    "hand-tools.jpg": "3dd9204a2cff2ba1fa011b3ac71494e03ece9c68c83b7636b875e50f28ee99cf",
+    "hero-approved-clean.jpg": "a2f9d2b40e643455f5d6dea1c3bd0d8a493ad634dbe31e5ab7fdb154216c5124",
+    "safety-products.jpg": "d4e6be6476f06c2f673e8a36b310a2143577172c9a1dd4d3abba47e0e9cef94f",
+    "contact-approved.jpg": "5a89a8a8979f6bbf97889a1d1d728944608115c4fca167d64054cdfc94e93d49",
+    "global-reach-approved.jpg": "279cad5b354eb868f358ad0dc739462e6b01e31fce1afe9c0b0cbff7738eae37",
+    "electrical-supplies.jpg": "dd29586e6d84ebaaa4b88342828d27b9507d4349de5f8abd635204dcc4603b3b",
+    "approved-reference.png": "080860d9824aa0b69ca3fd2f2fd6fa216845f2af1aa740f24f4e2050810311d9",
+    "hero-clean-final.jpg": "e8dc7b35db279b1f6d8ebb3ae19609a9947671658a2ff42b647f96392b9adc04",
+    "cutting-tools.jpg": "ca803f21fd8eddf01a3bc0013ee993b3abc56c5545668f779dbfb1a7c41ba24a",
+    "industrial-port.jpg": "f50002017d3b0a6e29e0a6ca7f3a2711b52d6b7ac9fa2058672c08e3ad399f13"
+  },
+  "hero_photo_approval": {
+    "source": "32ee4ff0-3a33-4bb8-919e-44d3cb4a803a.png",
+    "file": "assets/hero-front-approved.png",
+    "approval": "User explicitly requested replacing the hero with this uploaded photograph.",
+    "treatment": "Original bytes unchanged. Existing full-width background layout, translucent orange overlay and white HTML text retained."
+  },
+  "section_photo_approval": {
+    "context": "User supplied these two originals in direct response to the request for replacements for Contact and Global Reach.",
+    "contact": {
+      "source": "shijieditu.png",
+      "file": "assets/contact-original-approved.png"
+    },
+    "global": {
+      "source": "LET'SWORKTOGETHER Tell us your needs,and our team will get back to you as soon ao possible. gushuai@kxg06.com +86 1331713338 China (Global Service).png",
+      "file": "assets/global-logistics-approved.png",
+      "approval": "User explicitly requested this uploaded image for the Global Reach section.",
+      "treatment": "Original bytes unchanged; existing overlay and white text retained."
+    },
+    "treatment": "Original image bytes unchanged; CSS background positioning and translucent overlays only."
+  }
+}
